@@ -78,7 +78,6 @@ body {
 }
 #about-me p {
 	width: 80%;
-	font-size: 14px;
 }
 .title{
 	text-align: center;
@@ -135,7 +134,7 @@ body {
 .quote__text {
 	font-family: Spectral;
 	font-style: italic;
-	font-weight: 500;
+	font-size: 1.3rem;
 }
 .quote__author {
 	font-family: Spectral;
